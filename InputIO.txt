@@ -1,0 +1,45 @@
+Auto
+Manual
+Oil Temperature Trip
+Wiring Temperature Trip
+Bush Temperature Trip
+Pressure Released Trip
+Local Fan
+Remote Fan
+Auto Fan
+Manual Fan
+Select Fan 1 In
+Deselect Fan 1
+Select Fan 2 In
+Deselect Fan 2
+Fan 1 ON
+Fan 1 OFF
+Fan 2 ON
+Fan 2 OFF
+OLTC Auto
+OLTC Manual
+OLTC Protective Relay
+Local OLTC
+Remote OLTC
+CB1 Local
+CB1 Remote
+CB1 Trip In
+CB1 Close In
+CB1 DS Close
+CB1 DS Open
+CB1 GND Open
+CB1 GND Close
+CB1 Low Gas Lv1
+CB1 Low Gas Lv2
+CB1 Ready
+CB2 Local
+CB2 Remote
+CB2 Trip In
+CB2 Close In
+CB2 DS Close
+CB2 DS Open
+CB2 GND Open
+CB2 GND Close
+CB2 Low Gas Lv1
+CB2 Low Gas Lv2
+CB2 Ready

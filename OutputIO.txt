@@ -1,0 +1,10 @@
+Auto Operation
+Manual Operation
+Select Fan 1
+Select Fan 2
+OLTC Raise
+OLTC Down
+CB1 Trip Out
+CB1 Close Out
+CB2 Trip Out
+CB2 Close Out
